@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">H5190051_hakan_yucel_final_proje</string>
+    <string name="player_name">LeBron James</string>
+    <string name="player_size">2,06 cm</string>
+    <string name="player_born">30 Aralık 1984</string>
+    <string name="progress_dialog_message">Lütfen Bekleyiniz..</string>
+    <string name="back_alert_title">Çıkış?</string>
+    <string name="back_alert_message">Çıkış Yapmak İstediğinize Emin Misiniz?</string>
+    <string name="back_alert_negative_button">İptal</string>
+    <string name="back_alert_positive_button">Çıkış Yap</string>
+    <string name="network_title">İnternet Bağlantınız Yok</string>
+    <string name="network_message">Uygulamayı kullanmak için internete bağlayın!</string>
+    <string name="network_negative_button">Kapat</string>
+    <string name="network_positive_button">İnterneti Aç</string>
+
+    <string name="player_detail_born">Doğum Tarihi: </string>
+    <string name="player_detail_size">Boy: </string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // HomePage Values
+    <dimen name="promotion_image_height">200dp</dimen>
+
+    // Player Card View
+    <dimen name="player_cardview_height">150dp</dimen>
+    <dimen name="player_cardview_margin">16dp</dimen>
+    <dimen name="player_cardview_player_text_size">20sp</dimen>
+    <dimen name="player_cardview_image_width">125dp</dimen>
+    <dimen name="player_cardview_title_width">0dp</dimen>
+
+    // Player Detail
+    <dimen name="player_detail_image_height">200dp</dimen>
+    <dimen name="player_detail_title_padding">30dp</dimen>
+    <dimen name="player_detail_title_size">30sp</dimen>
+    <dimen name="player_detail_life_padding">20dp</dimen>
+    <dimen name="player_detail_life_size">16sp</dimen>
+    <dimen name="player_detail_bottom_layout_padding">15dp</dimen>
+    <dimen name="player_detail_bottom_born_text_size">15sp</dimen>
+    <dimen name="player_detail_botton_size_padding_left">30dp</dimen>
+    <dimen name="player_detail_bottom_size_text_size">15sp</dimen>
+</resources>
