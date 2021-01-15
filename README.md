@@ -8,10 +8,9 @@
 Resim Ekleme : <p align="center"><img src="https://github.com/cagataymuhammet/GuestList/blob/master/images/android_arc.png "/></p>
 
 
-
-Resim Ekleme : <p align="center"><img src="https://raw.githubusercontent.com/hakannyucel/h5190051hakanyucel/main/Screens/splash.png?raw=true"/></p>
-Resim Ekleme : <p align="center"><img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/no-internet.png?raw=true"/></p>
-Resim Ekleme : <p align="center"><img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/list.png?raw=true"/></p>
-Resim Ekleme : <p align="center"><img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/detail.png?raw=true"/></p>
-Resim Ekleme : <p align="center"><img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/exit-request.png?raw=true"/></p>
-Resim Ekleme : <p align="center"><img src="https://github.com/cagataymuhammet/GuestList/blob/master/images/android_arc.png "/></p>
+##Ekran Görüntüleri
+<img src="https://raw.githubusercontent.com/hakannyucel/h5190051hakanyucel/main/Screens/splash.png?raw=true"/>
+<img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/no-internet.png?raw=true"/>
+<img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/list.png?raw=true"/>
+<img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/detail.png?raw=true"/>
+<img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/exit-request.png?raw=true"/>
