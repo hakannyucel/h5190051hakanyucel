@@ -9,8 +9,11 @@ Resim Ekleme : <p align="center"><img src="https://github.com/cagataymuhammet/Gu
 
 
 ## Ekran Görüntüleri
-<img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/splash.png?raw=true"/>
+<div style="display: flex">
+  <img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/splash.png?raw=true"/>
 <img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/no-internet.png?raw=true"/>
 <img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/list.png?raw=true"/>
 <img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/detail.png?raw=true"/>
 <img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/exit-request.png?raw=true"/>
+
+</div>
