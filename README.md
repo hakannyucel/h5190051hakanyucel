@@ -8,8 +8,8 @@
 Resim Ekleme : <p align="center"><img src="https://github.com/cagataymuhammet/GuestList/blob/master/images/android_arc.png "/></p>
 
 
-##Ekran Görüntüleri
-<img src="https://raw.githubusercontent.com/hakannyucel/h5190051hakanyucel/main/Screens/splash.png?raw=true"/>
+## Ekran Görüntüleri
+<img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/splash.png?raw=true"/>
 <img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/no-internet.png?raw=true"/>
 <img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/list.png?raw=true"/>
 <img src="https://github.com/hakannyucel/h5190051hakanyucel/blob/main/Screens/detail.png?raw=true"/>
